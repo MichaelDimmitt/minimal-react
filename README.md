@@ -1,12 +1,14 @@
 Minimal React
 =============
 This is a template for building React.js web apps **without browserify, babel, and JSX**.
+This implementation runs off express!
 
 These code is explained in this [blog post][post]. 
 
 ## Installation
 
-**No installation required!** Just clone the repo (or download the files as zip) and open `index.html` in the browser
+npm install
+node server.js
 
 ## Other Examples
 * `other_examples/with_jsx`: The same example using JSX 
